@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTaxi</string>
+    <string name="driver">I\'m a driver</string>
+    <string name="customer">I\'m a customer</string>
+    <string name="email">abc@abc.com</string>
+    <string name="pass">Password</string>
+    <string name="signIn">Enter</string>
+    <string name="signUp">Registration</string>
+    <string name="driverStatus">Driver\'s page</string>
+    <string name="createQuestion">New User?</string>
+    <string name="customer_page">Customer\'s page</string>
+    <string name="title_activity_drivers_map">Map</string>
+</resources>
